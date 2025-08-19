@@ -1,0 +1,5 @@
+Python is fun.
+I am learning file handling.
+Exception handling is useful.
+This is week four of PLP.
+Practice makes perfect.
